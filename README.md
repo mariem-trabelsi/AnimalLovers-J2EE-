@@ -19,7 +19,7 @@ Les scripts Python suivent un workflow logique : `separateimages.py` pour le pr�
 │
 ├── 📁 models/                  # Modèles pré-entraînés et fine-tunés
 │
-├── 📁 people/                  # Dataset spécifique pour la détection de personnes
+├── 📁 people/                  # Dataset pour la détection de personne
 │
 ├── 📁 __pycache__/            # Fichiers Python compilés
 │
